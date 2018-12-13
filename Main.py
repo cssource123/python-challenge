@@ -1,6 +1,7 @@
 import os
 import csv
 import pandas as pd
+import numpy as np
 from pathlib import Path
 PyBankPath = "C:\\Users\\Ben Huang\\Desktop\\Python and Pandas\\Pybank.csv"
 Months = []
